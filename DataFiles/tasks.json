@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "SDA",
+    "Description": "Create Project",
+    "DueDate": "2026-10-03T00:00:00-07:00",
+    "Priority": "High",
+    "Status": "Completed"
+  },
+  {
+    "Title": "DSA",
+    "Description": "TREES",
+    "DueDate": "2026-10-03T00:00:00-07:00",
+    "Priority": "High",
+    "Status": "Completed"
+  },
+  {
+    "Title": "IS",
+    "Description": "Lab Tasks",
+    "DueDate": "2026-10-05T00:00:00",
+    "Priority": "High",
+    "Status": "Pending"
+  },
+  {
+    "Title": "COAL",
+    "Description": "Number System",
+    "DueDate": "2026-10-04T00:00:00",
+    "Priority": "Medium",
+    "Status": "Pending"
+  }
+]
